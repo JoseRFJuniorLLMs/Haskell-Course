@@ -28,6 +28,6 @@ Double all the numbers in the even position counting from the tail to the head. 
 ```haskell
 validate :: Integer -> Bool
 ```
-Uses all function above and return if the number is valid by the modulo 10.
+Uses (almost)all the functions above and return if the number is valid by the modulo 10.
 ## The Tower of Hanoi
 To do... 
