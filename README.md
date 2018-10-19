@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My codes to the CIS-194 Haskell Course. All the sources are located at src folder.
+My codes to the CIS-194 Haskell Course. 
 
 ## Contents
 ### /notes
