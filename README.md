@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My codes to the CIS-194 Haskell Course. 
+My codes for the CIS-194 Haskell Course. 
 
 ## Contents
 ### /notes
