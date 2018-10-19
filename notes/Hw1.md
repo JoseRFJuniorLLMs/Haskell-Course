@@ -14,7 +14,7 @@ This exercises works on lists and recursion, see the description below.
 toDigits :: Integer -> [Integer]
 ```
 Get the integer input then converts into a list of integers.
-### toDigits REv
+### toDigitsRev
 ```haskell
 toDigitsRev :: Integer -> [Integer]
 ```
@@ -23,7 +23,7 @@ Same thing from the function above, but in a reverse way.
 ```haskell
 doubleEveryOther :: [Integer] -> [Integer]
 ```
-Double all the numbers in the even position counting from the tail to the head.
+Double all the numbers in the even position counting from the tail to the head. I did not use the toDigitsRev function. Instead a find a wat using only the toDigits func.
 ### validate
 ```haskell
 validate :: Integer -> Bool
